@@ -1,2 +1,0 @@
-lista.txt  mvnw  mvnw.cmd  nuevalista.txt  pom.xml  src
-Falto esto
